@@ -1,0 +1,7 @@
+category,factor,unit,scope
+Electricity,0.233,kWh,Scope 2
+Petrol,2.31,litre,Scope 1
+Diesel,2.68,litre,Scope 1
+Flight,0.115,km,Scope 3
+Waste,0.57,kg,Scope 3
+Water,0.344,m3,Scope 3
